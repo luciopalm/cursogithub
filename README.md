@@ -1,2 +1,2 @@
 # cursogithub
- curso github do curso em vídeo
+curso de **github** do curso em vídeo
